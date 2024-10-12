@@ -1,5 +1,5 @@
-The "Final_Website_Traffic_ForeCasting" script presents a comprehensive approach to forecasting website traffic through a combination of traditional time series analysis and modern machine learning techniques. Key aspects include:
-Data Preparation: The code effectively preprocesses raw data by converting date formats, cleaning numeric columns, and addressing outliers, ensuring the dataset is suitable for analysis.
+### The "Final_Website_Traffic_ForeCasting" script presents a comprehensive approach to forecasting website traffic through a combination of traditional time series analysis and modern machine learning techniques. Key aspects include:
+### Data Preparation: The code effectively preprocesses raw data by converting date formats, cleaning numeric columns, and addressing outliers, ensuring the dataset is suitable for analysis.
 
 > Exploratory Data Analysis (EDA): Visualization techniques are employed to understand data distributions, detect outliers, and assess stationarity. Functions for generating ACF and PACF plots further aid in understanding the time series characteristics.
 
